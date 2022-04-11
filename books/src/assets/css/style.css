@@ -1,0 +1,10 @@
+.banner {
+    background-image: url('~@/assets/img/library-bright.jpg');
+    height: 300px;
+    background-size: cover;
+    background-position: center center;
+}
+
+.borito {
+    height: 100px;
+}
